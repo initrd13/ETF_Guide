@@ -1,7 +1,5 @@
 # ETF Selection Guide
 
-A practical, plain-English checklist for choosing **and managing** exchange-traded funds (ETFs).  
-Numbers below are rough guidelines, not hard rules.
 
 ---
 
